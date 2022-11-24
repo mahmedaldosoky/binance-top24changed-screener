@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/binance-top24changed-screener/static/css/main.5dd96c30.css",
+    "main.js": "/binance-top24changed-screener/static/js/main.91db880a.js",
+    "static/js/787.15beab22.chunk.js": "/binance-top24changed-screener/static/js/787.15beab22.chunk.js",
+    "index.html": "/binance-top24changed-screener/index.html",
+    "main.5dd96c30.css.map": "/binance-top24changed-screener/static/css/main.5dd96c30.css.map",
+    "main.91db880a.js.map": "/binance-top24changed-screener/static/js/main.91db880a.js.map",
+    "787.15beab22.chunk.js.map": "/binance-top24changed-screener/static/js/787.15beab22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd96c30.css",
+    "static/js/main.91db880a.js"
+  ]
+}

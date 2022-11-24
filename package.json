@@ -1,6 +1,6 @@
 {
   "name": "top-changed-coins-binance",
-  "homepage": "https://mahmedaldosoky.github.io/binance-top24changed-screener",
+  "homepage": "http://mahmedaldosoky.github.io/binance-top24changed-screener",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,8 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d buid",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d buid"
   },
   "eslintConfig": {
     "extends": [
